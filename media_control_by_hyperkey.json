@@ -1,5 +1,5 @@
 {
-  "title": "Media Control by Hyperkey (Arrows, Space, and Slash)",
+  "title": "Media Control by Hyperkey + Arrows, Space, and Slash",
   "rules": [
     {
       "description": "Change caps_lock key to command+control+option+shift if pressed with other keys",
