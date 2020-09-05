@@ -1,4 +1,4 @@
-# Media Control by Hyperkey (Arrows, Space, and Slash)
+# Media Control by Hyperkey + Arrows, Space, and Slash
 
 Controls media by hyperkey (command + control + option + shift).
 
