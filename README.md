@@ -1,6 +1,14 @@
-# Mac Karabiner Number Function Keys
+# Media Control by Hyperkey (Arrows, Space, and Slash)
 
-Map fn + number keys to their corresponding function keys or media control keys
+Controls media by hyperkey (command + control + option + shift).
+
+## Five Modules:
+
+1. Change caps_lock key to command+control+option+shift (called hyperkey) if pressed with other keys 
+2. volume up/down by hyperkey + ↑/↓
+3. media last/next by hyperkey + ←/→
+4. media play/pause by hyperkey + space
+5. mute by hyperkey + /
 
 ---
 
