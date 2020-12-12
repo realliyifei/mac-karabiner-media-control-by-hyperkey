@@ -14,7 +14,7 @@ Controls media by hyperkey (command + control + option + shift).
 
 ## Prerequisite: Karabiner
 
-![](https://karabiner-elements.pqrs.org/images/logo.png){:height="30%" width="30%"}
+<img src="https://karabiner-elements.pqrs.org/images/logo.png" width="400" height="400">
 
 **Download Link:** <https://pqrs.org/osx/karabiner/>
 
