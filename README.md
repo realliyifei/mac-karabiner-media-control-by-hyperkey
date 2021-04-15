@@ -23,3 +23,7 @@ Controls media by hyperkey (command + control + option + shift).
 - Copy the json file to **~/.config/karabiner/assets/complex_modifications**
 
 - Enable rule in the complex modifictaions tag in Karabiner, see the [guide](https://karabiner-elements.pqrs.org/docs/manual/configuration/configure-complex-modifications/)
+
+## Limitations
+
+Each implementation will cause several weird strings in clipboard and thus mess up the clipboard history. If you always need to refer to the clipboard history, this script doesn't suit your need. 
